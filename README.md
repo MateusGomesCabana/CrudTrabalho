@@ -1,3 +1,4 @@
 # dotNET_2020
 
-Repositório da disciplina .NET Avançado - MBA Engenharia de Software - FIB Bauru
+Trabalho de crud .NET Avançado - MBA Engenharia de Software - FIB Bauru
+Nome: Mateus Gomes Cabana
